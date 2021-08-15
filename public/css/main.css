@@ -1,0 +1,33 @@
+.txt-white{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 0px 10px;
+}
+.txt-white:hover{
+    color: rgb(182, 182, 182);
+    
+}
+
+.txt-center{
+    text-align: center;
+    color: whitesmoke;
+}
+.card-header{
+    background-color: rgb(41, 41, 41);
+}
+.row{
+    margin: 10px;
+}
+.vertical{
+    border-left: 1px solid whitesmoke;
+    height: 24px;
+    position:relative;
+    
+}
+.form-control{
+
+    width: 400px;
+}
+
+
+
